@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="15.0.0.0"
+    CreationTime="2024-02-19 19:42:17 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="LBP_V2.4_TIA_V16_DemoProject_Comfort.TP900 Comfort_1[TP900 Comfort]"
+    RtProjectFolderName="LBP_V2.4_TIA_V16_DemoProject_Comfort.TP900 Comfort_1[TP900 Comfort]"
+    DeviceType="TP900 Comfort"
+    DisplayOrientation="0"
+    RTReleaseNo="15.0.0.5"
+    ImageReleaseNo="15.0.0.5"
+    RTCV="15.0.0.3"
+    PRCV="15.0.0.3"
+    FirmwareFileName="CP_7_9\15.0.0.5\CP_7_9_12_V15_0.fwf"
+    RuntimeFileName="CP_7_9\15.0.0.5\CP_7_9_12_V15_0.ruf"
+    RuntimeAddonFolderName="CP_7_9" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <FullDownload
+    type="RECIPE">pdata.recipe.zip</FullDownload>
+  <FullDownload>DeviceSettings.hsf</FullDownload>
+  <FullDownload>SmartServer.rld</FullDownload>
+</DownloadTask>
